@@ -1,0 +1,47 @@
+{
+  "_from": "react-native-imagegallery-as",
+  "_id": "react-native-imagegallery-as@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-y+R/Dks+iyk/HQBv/AFIupeA+KgLhmzXwe7dSIvlLcxbPUs+QTAybv73CGP8PB64NzbBQ7zzhC7/FsKSWaDdrA==",
+  "_location": "/react-native-imagegallery-as",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-imagegallery-as",
+    "name": "react-native-imagegallery-as",
+    "escapedName": "react-native-imagegallery-as",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-imagegallery-as/-/react-native-imagegallery-as-1.0.0.tgz",
+  "_shasum": "d729a7a4483606a29c33d542f43c35c727f06494",
+  "_spec": "react-native-imagegallery-as",
+  "_where": "/Users/evotan/anubhav/testing/start",
+  "author": {
+    "name": "Alferdize simonandrew132@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/Alferdize/react-native-ImageGallery-as/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "It's is a react-native module for creating a image gallery with and easy. You need to install react-native-vector-icons for using it.",
+  "homepage": "https://github.com/Alferdize/react-native-ImageGallery-as#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-imagegallery-as",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alferdize/react-native-ImageGallery-as.git"
+  },
+  "scripts": {
+    "test": "None"
+  },
+  "version": "1.0.0"
+}
