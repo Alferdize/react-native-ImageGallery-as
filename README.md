@@ -1,2 +1,2 @@
-<p align="center"># react-native-ImageGallery-as</p>
+# react-native-ImageGallery-as {style=text-align:center}
 It's a react-native image gallery
