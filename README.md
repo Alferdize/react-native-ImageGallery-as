@@ -20,10 +20,8 @@ import ImageGallery from 'react-native-ImageGallery-as';
 ```
 [2]: At a minimal, declare the component in the render method prividing data for images
 ```
-<Masonry
-  sorted // optional - Default: false
-  columns={4} // optional - Default: 2
-  bricks={[
+<ImageGallery
+  images={[
     { uri: 'http://image1.jpg' },
     { uri: 'http://image2.jpg' },
     { uri: 'http://image3.jpg' }
