@@ -14,5 +14,19 @@ This component works on react-native **0.57.8+**.
 `npm install --save react-native-ImageGallery-as` 
 
 ## Usage
-
-->`import ImageGallery from 'react-native-ImageGallery-as';` 
+[1]: Add an import to the top of your file
+```
+import ImageGallery from 'react-native-ImageGallery-as';
+```
+[2]: At a minimal, declare the component in the render method prividing data for images
+```
+<Masonry
+  sorted // optional - Default: false
+  columns={4} // optional - Default: 2
+  bricks={[
+    { uri: 'http://image1.jpg' },
+    { uri: 'http://image2.jpg' },
+    { uri: 'http://image3.jpg' }
+  ]}
+/>
+```
