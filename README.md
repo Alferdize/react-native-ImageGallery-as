@@ -4,6 +4,7 @@
     - [Table of contents](#table-of-contents)
     - [Install](#install)
     - [Usage](#usage)
+    - [Props](#props)
 
 A Javascript image gallery for React-Native apps with common gestures like pan supporting both iOS and Android.
 
@@ -25,6 +26,13 @@ import ImageGallery from 'react-native-ImageGallery-as';
     { uri: 'http://image1.jpg' },
     { uri: 'http://image2.jpg' },
     { uri: 'http://image3.jpg' }
-  ]}
+  ]} title={['Image1','Image2','Image3]}
 />
 ```
+## Props
+
+
+| Prop          | Description                      | Type          | Default       |
+| ------------- | ---------------------------------| ------------- | ------------- |
+| `images`      | Your array of images             | `array`       | Required      |
+| `title`       | Your array of title              | `array`       | `[]`      |
