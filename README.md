@@ -15,4 +15,4 @@ This component works on react-native **0.57.8+**.
 
 ## Usage
 
-`import ImageGallery from 'react-native-ImageGallery-as';` 
+->`import ImageGallery from 'react-native-ImageGallery-as';` 
